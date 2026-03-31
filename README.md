@@ -1,0 +1,1 @@
+# Deep Learning for Natural Language Processing\n\nThis repository contains various deep learning models and techniques applied to Natural Language Processing (NLP) tasks. It includes examples of text classification, sentiment analysis, named entity recognition, and more, implemented using frameworks like TensorFlow and PyTorch.

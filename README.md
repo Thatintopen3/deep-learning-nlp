@@ -1,1 +1,5 @@
-# Deep Learning for Natural Language Processing\n\nThis repository contains various deep learning models and techniques applied to Natural Language Processing (NLP) tasks. It includes examples of text classification, sentiment analysis, named entity recognition, and more, implemented using frameworks like TensorFlow and PyTorch.
+# ai-powered-saas-platform
+
+A full-stack SaaS platform integrated with OpenAI API, built with Next.js and Tailwind CSS.
+
+Built with modern technologies in the Full Stack SaaS niche.
